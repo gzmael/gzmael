@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Baita Soluções Digitais**
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **t3 Stack and Cypress**
 
-- 📝 I regularly write articles on [https://medium.com/@jezmael](https://medium.com/@jezmael)
+<!-- - 📝 I regularly write articles on [https://medium.com/@jezmael](https://medium.com/@jezmael) -->
 
 - 📫 How to reach me **jezmael@baitasolucoes.com.br**
 
